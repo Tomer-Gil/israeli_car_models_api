@@ -37,4 +37,5 @@ https://data.gov.il/dataset/degem-rechev-wltp
 3) Build response - building a JSON object and send it back to the user as a response.
 3) Handle automatic favicon.ico requests.
 4) Add main router that passes globally used in the the application variables to all of the sub-routers at once 
-    (variables such as packageName and the fetch module).
+    (variables such as packageName and the fetch module) - LEARN ABOUT EXPRESS SUB-ROUTE / NESTED ROUTE (for example, 
+    here: https://stackoverflow.com/questions/25260818/rest-with-express-js-nested-router).
